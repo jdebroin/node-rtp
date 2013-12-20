@@ -1,0 +1,7 @@
+{
+  "name": "node-rtp",
+  "description": "simple rtp stack",
+  "version": "0.0.2",
+  "homepage": "https://github.com/mscdex/node-rtp",
+  "author": "mscdex"
+}
