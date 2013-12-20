@@ -4,6 +4,7 @@
   "version": "0.0.2",
   "homepage": "https://github.com/jdebroin/node-rtp",
   "author": "mscdex",
+  "main": "lib/rtppacket.js",
   "repository": {
     "type": "git",
     "url": "https://github.com/jdebroin/node-rtp.git"
